@@ -1,0 +1,14 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Guilherme Galeno",
+            "email": "gui.galenocover@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Luana Santiago",
+            "email": "lua.santiago@gmail.com"
+        }
+    ]
+}
