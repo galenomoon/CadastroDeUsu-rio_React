@@ -1,19 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Guilherme Galeno",
-      "email": "gui.galenocover@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Luana Santiago",
-      "email": "lua.santiago@gmail.com"
-    },
-    {
-      "name": "Isabella Galeno",
-      "email": "isa.galeno@gmail.com",
-      "id": 3
+      "name": "Apollin",
+      "email": "apollo.gato@gmail.com",
+      "id": 1
     }
   ]
 }
